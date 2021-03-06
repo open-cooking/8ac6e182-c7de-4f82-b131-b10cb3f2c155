@@ -1,1 +1,1 @@
-{"id":"8ac6e182-c7de-4f82-b131-b10cb3f2c155","ingredients":[{"name":"vermicelle"},{"name":"bouillon de volaille"}],"name":"Bouillon de poule aux vermicelles"}
+{"id":"8ac6e182-c7de-4f82-b131-b10cb3f2c155","ingredients":[{"amount":100.0,"name":"vermicelle","unit":"g"},{"amount":50.0,"name":"bouillon de volaille","unit":"cl"}],"name":"Bouillon de poule aux vermicelles"}
